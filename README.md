@@ -1,6 +1,6 @@
 # MakeshiftVideoNav
 
-**Problem: **
+**Problem:**
 When opening video files (for example, .mp4 file) with Chrome Browser, it will allow you to play the video file, but without providing video navigation feature that allows you the fast-forward or rewind with arrow key.
 
 **ad-hoc solution for programmers:**
